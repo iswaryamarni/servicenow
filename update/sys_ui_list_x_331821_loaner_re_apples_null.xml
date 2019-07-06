@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_331821_loaner_re_apples" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0a16f55adb127300d2e2e37a48961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hidecimals</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8e16f55adb127300d2e2e37a48961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_audio_1</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0216f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_choice_1</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8216f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_currency_2</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0616f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_data_structure_3</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8616f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_glide_date_4</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0a16f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_glide_date_time_5</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8a16f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_due_date_7</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0e16f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_glide_duration_8</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8e16f55adb127300d2e2e37a48961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_field_name_9</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0216f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_glide_duration_30</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8216f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_html_12</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0616f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_float_29</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8616f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_icon_25</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0a16f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_field_name_31</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8a16f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_float_11</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0e16f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_price_21</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8e16f55adb127300d2e2e37a48961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_url_16</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0216f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_file_attachment_10</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8216f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ip_addr_24</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0616f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_journal_23</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8616f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_glide_list_22</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0a16f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_longint_2</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8a16f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_full_utf8_20</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0e16f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_table_name_19</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8e16f55adb127300d2e2e37a48961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_translated_text_17</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0216f55adb127300d2e2e37a48961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_glide_time_18</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8216f55adb127300d2e2e37a48961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_wiki_text_15</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0616f55adb127300d2e2e37a48961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8616f55adb127300d2e2e37a48961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_translated_text_26</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>0a16f55adb127300d2e2e37a48961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_translated_text_3</element>
+            <list_id display_value="x_331821_loaner_re_apples" element="NULL" name="x_331821_loaner_re_apples" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ca16f55adb127300d2e2e37a48961901</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_id>8a16f55adb127300d2e2e37a48961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_331821_loaner_re_apples</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:30:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca16f55adb127300d2e2e37a48961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_331821_loaner_re_apples</sys_name>
+            <sys_package display_value="Loaner Request" source="x_331821_loaner_re">5de4c365db563300d2e2e37a48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">5de4c365db563300d2e2e37a48961974</sys_scope>
+            <sys_update_name>sys_ui_list_x_331821_loaner_re_apples_null</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:30:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="apples" max_length="40" name="x_331821_loaner_re_apples" type="collection">
+        <element label="hidecimals" max_length="20" name="hidecimals" type="decimal"/>
+        <element hint="enter name here" label="Name" max_length="40" name="name" type="string"/>
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" default="0" label="New Currency" max_length="20" name="u_currency_2" type="currency"/>
+        <element label="New Data Structure" max_length="800" name="u_data_structure_3" type="data_structure"/>
+        <element label="New Due Date" max_length="40" name="u_due_date_7" type="due_date"/>
+        <element label="New Field Name" max_length="80" name="u_field_name_31" type="field_name"/>
+        <element label="New Field Name" max_length="80" name="u_field_name_9" type="field_name"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_10" type="file_attachment"/>
+        <element label="New Floating Point Number" max_length="40" name="u_float_11" type="float"/>
+        <element label="New Floating Point Number" max_length="40" name="u_float_29" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_5" type="glide_date_time"/>
+        <element label="New Duration" max_length="40" name="u_glide_duration_30" type="glide_duration"/>
+        <element label="New Duration" max_length="40" name="u_glide_duration_8" type="glide_duration"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_22" type="glide_list"/>
+        <element label="New Time" max_length="40" name="u_glide_time_18" type="glide_time"/>
+        <element label="New HTML" max_length="65536" name="u_html_12" type="html"/>
+        <element label="New Icon" max_length="100" name="u_icon_25" type="icon"/>
+        <element label="New IP Address (Validated IPV4, IPV6)" max_length="40" name="u_ip_addr_24" type="ip_addr"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_23" type="journal"/>
+        <element label="New Long" max_length="40" name="u_longint_2" type="longint"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="New Price" max_length="20" name="u_price_21" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="New String (Full UTF-8)" max_length="255" name="u_string_full_utf8_20" type="string_full_utf8"/>
+        <element attributes="base_start=true" label="New Table Name" max_length="80" name="u_table_name_19" type="table_name"/>
+        <element label="New Translated Text" max_length="40" name="u_translated_text_17" type="translated_text"/>
+        <element label="New Translated Text" max_length="40" name="u_translated_text_26" type="translated_text"/>
+        <element label="New Translated Text" max_length="40" name="u_translated_text_3" type="translated_text"/>
+        <element attributes="edge_encryption_enabled=true" label="New URL" max_length="1024" name="u_url_16" type="url"/>
+        <element attributes="is_multi_text=true,preview_first=true,preview_selector=true" label="New Wiki" max_length="65536" name="u_wiki_text_15" type="wiki_text"/>
+    </element>
+</database>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="ce23e95edbde3300d2e2e37a48961911" sys_domain="global" table="x_331821_loaner_re_apples" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>6984751adb127300d2e2e37a489619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <text/>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>6d84751adb127300d2e2e37a489619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <text/>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>6a232d5edbde3300d2e2e37a489619d9</element>
+            <position>0</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2184751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_url_16</element>
+            <position>1</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a184751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wiki_text_15</element>
+            <position>2</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2584751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_full_utf8_20</element>
+            <position>3</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a584751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_list_22</element>
+            <position>4</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2984751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_journal_23</element>
+            <position>5</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a984751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_price_21</element>
+            <position>6</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2d84751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_float_29</element>
+            <position>7</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>ad84751adb127300d2e2e37a489619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>2e232d5edbde3300d2e2e37a489619dc</element>
+            <position>8</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2184751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_duration_30</element>
+            <position>9</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a184751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2584751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>6984751adb127300d2e2e37a489619bd</element>
+            <position>11</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a584751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_translated_text_17</element>
+            <position>12</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2984751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_time_18</element>
+            <position>13</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a984751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_table_name_19</element>
+            <position>14</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2d84751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ip_addr_24</element>
+            <position>15</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>ad84751adb127300d2e2e37a489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_icon_25</element>
+            <position>16</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2184751adb127300d2e2e37a489619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_translated_text_26</element>
+            <position>17</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a184751adb127300d2e2e37a489619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>6d84751adb127300d2e2e37a489619bd</element>
+            <position>18</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>2584751adb127300d2e2e37a489619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_field_name_31</element>
+            <position>19</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 19:24:00</sys_created_on>
+            <sys_id>a584751adb127300d2e2e37a489619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 19:24:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field/>
+            <height>300</height>
+            <label/>
+            <report/>
+            <report_field/>
+            <report_qual/>
+            <section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</section>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 18:08:10</sys_created_on>
+            <sys_id>2e232d5edbde3300d2e2e37a489619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 18:08:10</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field/>
+            <height>300</height>
+            <label/>
+            <report/>
+            <report_field/>
+            <report_qual/>
+            <section caption="New Section" display_value="New Section" name="x_331821_loaner_re_apples" sys_domain="global" view="Default view">ce23e95edbde3300d2e2e37a48961911</section>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 18:08:10</sys_created_on>
+            <sys_id>6a232d5edbde3300d2e2e37a489619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 18:08:10</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_331821_loaner_re_apples</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-06-29 18:08:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce23e95edbde3300d2e2e37a48961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_331821_loaner_re">5de4c365db563300d2e2e37a48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">5de4c365db563300d2e2e37a48961974</sys_scope>
+            <sys_update_name>sys_ui_section_ce23e95edbde3300d2e2e37a48961911</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-06-29 18:08:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

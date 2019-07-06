@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-06-30 13:25:17</sys_created_on>
+        <sys_id>e00cad6adb5a7300d2e2e37a48961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_331821_loaner_re_foruipolicy.x_331821_loaner_re.foruipolicy_user</sys_name>
+        <sys_package display_value="Loaner Request" source="x_331821_loaner_re">5de4c365db563300d2e2e37a48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">5de4c365db563300d2e2e37a48961974</sys_scope>
+        <sys_security_acl display_value="x_331821_loaner_re_foruipolicy">280cad6adb5a7300d2e2e37a48961902</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e00cad6adb5a7300d2e2e37a48961905</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-06-30 13:25:17</sys_updated_on>
+        <sys_user_role display_value="x_331821_loaner_re.foruipolicy_user" name="x_331821_loaner_re.foruipolicy_user">940c292adb5a7300d2e2e37a489619eb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

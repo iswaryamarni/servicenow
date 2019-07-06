@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="foruipolicy" max_length="40" name="x_331821_loaner_re_foruipolicy" type="collection">
+        <element choice="1" label="color" max_length="40" name="color" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="red" sequence="0" value="red"/>
+                <element inactive_on_update="false" label="blue" sequence="1" value="blue"/>
+                <element inactive_on_update="false" label="yellow" sequence="2" value="yellow"/>
+                <element inactive_on_update="false" label="other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element label="specify" max_length="40" name="specify" type="string"/>
+    </element>
+</database>

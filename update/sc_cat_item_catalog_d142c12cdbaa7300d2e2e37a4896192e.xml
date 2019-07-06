@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Copy of Copy of mynew">1542c12cdbaa7300d2e2e37a4896192b</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-07-06 15:30:47</sys_created_on>
+        <sys_id>d142c12cdbaa7300d2e2e37a4896192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Copy of mynew</sys_name>
+        <sys_package display_value="Loaner Request" source="x_331821_loaner_re">5de4c365db563300d2e2e37a48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">5de4c365db563300d2e2e37a48961974</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d142c12cdbaa7300d2e2e37a4896192e</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-07-06 15:30:47</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
